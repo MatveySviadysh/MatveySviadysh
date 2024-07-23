@@ -4,12 +4,13 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-      <details><summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+      <details open><summary>Full year calendar</summary><img src="https://github.com/MatveySviadysh/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+      <details><summary>Half year calendar</summary><img src="https://github.com/MatveySviadysh/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
 </table>
+
 
 
 Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Матвей!
@@ -44,7 +45,7 @@ Beckend разработчик
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" /></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" height="36" alt="Ubuntu" /></a>
 </p>
 
 
