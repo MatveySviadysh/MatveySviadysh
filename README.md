@@ -47,7 +47,7 @@ Beckend разработчик
 
 
 ### 💻 Codewars:
- [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/MatveySviadysh)
+[![codewars](https://www.codewars.com/users/MatveySviadysh/badges/small)](https://www.codewars.com/users/MatveySviadysh)
 
 
 ### GitHub статистика:
