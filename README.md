@@ -2,10 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
 
-Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Матвей!
+It’s good to see you![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Matvey!
 ==========================================================================================================================================
 
-Beckend разработчик
 
 
 
@@ -21,7 +20,8 @@ Beckend разработчик
 
 
 
-### Технологии
+
+### Technologies:
 
 <p align="left">
   <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
@@ -42,7 +42,7 @@ Beckend разработчик
 
 
 
-### Социальные сети:
+###Social media:
 
   <div id="badges" >
     <a href="https://t.me/blabla262" target="_blank">
@@ -58,7 +58,7 @@ Beckend разработчик
 [![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=success&label=Total%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/your_leetcode_username)](https://leetcode.com/mkomp06/)
 
 
-### GitHub статистика:
+### GitHub statistics:
 
 
 
