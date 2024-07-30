@@ -1,8 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
+[![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=success&label=Total%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/your_leetcode_username)](https://leetcode.com/mkomp06/)
 
-[View my LeetCode profile](https://leetcode.com/mkomp06)
 
 Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Матвей!
 ==========================================================================================================================================
