@@ -55,8 +55,7 @@ It’s good to see you![](https://user-images.githubusercontent.com/18350557/176
 [![codewars](https://www.codewars.com/users/MatveySviadysh/badges/small)](https://www.codewars.com/users/MatveySviadysh)
 
 ### 💻 Leetcode
-[![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=success&label=Total%20Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FMavteySviadysh)](https://leetcode.com/MavteySviadysh/)
-
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/api?username=MavteySviadysh)](https://leetcode.com/u/MavteySviadysh/)
 
 ### GitHub statistics:
 
