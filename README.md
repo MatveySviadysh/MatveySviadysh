@@ -68,8 +68,3 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MatveySviadysh&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
-</div>
