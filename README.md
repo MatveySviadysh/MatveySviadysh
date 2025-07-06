@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62" alt="header"/>
-</p>
 
-<p align="center">
-  It’s good to see you! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" /> I'm Matvey!
-</p>
-
-<hr>
 
 <h3 align="center">🛠 Technologies:</h3>
 <p align="center">
