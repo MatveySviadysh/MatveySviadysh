@@ -1,7 +1,7 @@
 # 🚀 Welcome to My GitHub Profile!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Hello%2C+I'm+Matvey+Sviadysh;Full-Stack+Developer;DevOps+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Hello%2C+I'm+Matvey+Sviadysh;DevOps+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
