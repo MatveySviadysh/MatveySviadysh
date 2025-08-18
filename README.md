@@ -1,4 +1,53 @@
-# 🚀 Welcome to My GitHub Profile!
+<!-- Анимированный баннер -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MatveySviadysh/MatveySviadysh/main/assets/github-header.svg" alt="MasterHead">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Senior+DevOps+Engineer;AWS+Certified;K8s+Specialist;CI/CD+Expert" alt="Typing SVG">
+</div>
+
+
+<!-- 🎯 Dynamic Profile Header with GitHub Actions Badge -->
+<div align="center">
+  <a href="https://github.com/MatveySviadysh/MatveySviadysh/actions">
+    <img src="https://github.com/MatveySviadysh/MatveySviadysh/workflows/Profile%20Update/badge.svg" alt="Profile Update">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MatveySviadysh&label=Profile+Views&color=blueviolet" alt="Profile Views">
+</div>
+
+<!-- 🚀 Animated 3D Header -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MatveySviadysh/MatveySviadysh/main/assets/3d-banner.svg" width="100%" alt="3D Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Senior+DevOps+Engineer;AWS+Certified+Professional;Kubernetes+Specialist;CI/CD+Architect" alt="Typing SVG">
+</div>
+
+<!-- 🔥 Live Status Bar -->
+<div align="center">
+  
+[![Current Project](https://img.shields.io/badge/Current%20Project-IAC%20Optimization-blueviolet?style=flat-square)]()
+[![Working On](https://img.shields.io/badge/Working%20On-K8s%20Operator%20Framework-yellow?style=flat-square)]()
+[![Last Deployment](https://img.shields.io/badge/Last%20Deployment-2024--06--15-brightgreen?style=flat-square)]()
+
+</div>
+
+<!-- �🏼 Social Trophies -->
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=MatveySviadysh&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<!-- ⚡ Real-Time Metrics Widget -->
+```html
+<div align="center">
+  <img src="https://metrics.lecoq.io/MatveySviadysh?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FMoscow" width="90%">
+</div>
+
+
+
+
+
+
+
+=======================================================================================================================================================================================
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Hello%2C+I'm+Matvey+Sviadysh;DevOps+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -52,7 +101,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatveySviadysh&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MatveySviadysh&theme=dark&hide_border=true)
 
 </div>
 
