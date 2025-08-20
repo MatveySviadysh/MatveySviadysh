@@ -1,12 +1,12 @@
 
 
 
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=550&lines=Matvey+Sviadysh;Professional+Googler+%F0%9F%94%8D;Ctrl%2BC+Ctrl%2BV+Engineer+%E2%9A%A1" alt="Typing SVG" />
 </div>
-<div align="rigth">
-  ![Profile Views](https://komarev.com/ghpvc/?username=MatveySviadysh&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MatveySviadysh&color=00FFFF&style=plastic&label=🚀+PROFILE+VIEWS&labelColor=000000" alt="Profile views" />
 </div>
 
 ---
