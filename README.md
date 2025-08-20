@@ -8,6 +8,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MatveySviadysh&style=flat" alt="Profile views" />
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MatveySviadysh&color=000000&style=flat&label=" alt="Views" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MatveySviadysh&color=000000&style=flat-square&label=Views" alt="Profile views" />
+</div>
 
 ---
 
