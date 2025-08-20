@@ -3,8 +3,9 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Matvey+Sviadysh;Professional+Googler+🔍;Ctrl%2BC+Ctrl%2BV+Engineer+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=550&lines=Matvey+Sviadysh;Professional+Googler+%F0%9F%94%8D;Ctrl%2BC+Ctrl%2BV+Engineer+%E2%9A%A1" alt="Typing SVG" />
 </div>
+
 
 
 ---
