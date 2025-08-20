@@ -8,7 +8,14 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MatveySviadysh&style=flat" alt="Profile views" />
 </div>
+## 🏢 Organizations
 
+<div align="center">
+
+[![Your Organization](https://img.shields.io/badge/Organization-Name-blue?style=for-the-badge&logo=github)](https://github.com/org-name)
+[![Another Org](https://img.shields.io/badge/Org-Example-green?style=for-the-badge&logo=github)](https://github.com/another-org)
+
+</div>
 
 ---
 
